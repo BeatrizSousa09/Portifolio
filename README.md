@@ -1,0 +1,1 @@
+Bem vindo(a) ao meu portifólio de projetos em Análise de Dados e Business Intelligence! Aqui compartilho alguns trabalhos desenvolvidos em Python, Power BI e SQL, aplicando conceitos de análise exploratória, modelagem e visualização de dados.
