@@ -14,4 +14,12 @@ Links:
 >  	      Esse tipo de visual pode não aparecer corretamente para usuários sem licença Power BI.
 - Bulltrend: https://app.powerbi.com/groups/me/reports/60b17da5-d5f0-4309-92cd-b6c3159ee52d/ReportSection?experience=power-bi
 
+Certificados:
+## Alura
+- https://cursos.alura.com.br/user/beatrizoliveira-sousa03/fullCertificate/9cf5ce74d1043053d9b38ebd861ddf25
 
+## Udemy
+- https://www.udemy.com/certificate/UC-424d2dcf-ba76-44f4-a62a-a4824e5bed06/
+
+## Ninja do Excel
+- file:///C:/Users/biast/Downloads/Certificado-Ninja-do-Excel.pdf
