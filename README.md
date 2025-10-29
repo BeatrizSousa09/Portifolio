@@ -22,4 +22,4 @@ Certificados:
 - https://www.udemy.com/certificate/UC-424d2dcf-ba76-44f4-a62a-a4824e5bed06/
 
 ## Ninja do Excel
-- file:///C:/Users/biast/Downloads/Certificado-Ninja-do-Excel.pdf
+- https://cursos.ninjadoexcel.com.br/certificate/view/005902/2022-03-17
